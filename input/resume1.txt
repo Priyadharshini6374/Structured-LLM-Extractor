@@ -1,0 +1,22 @@
+
+PRIYADHARSHINI
+Email: priya.dharshini@example.com
+Phone: +91 9876543210
+
+EDUCATION
+B.Tech in Computer Science, ABC Institute of Technology, 2026
+
+TECHNICAL SKILLS
+Python, SQL, Java, Git, Machine Learning, Prompt Engineering
+
+INTERNSHIP EXPERIENCE
+Software Development Intern at Tech Solutions
+- Developed Python scripts for data processing.
+- Collaborated with the team to test software features.
+
+PROJECTS
+AI Mock Interview System
+- Built a prototype for interview practice using AI.
+
+Invoice Data Extractor
+- Created a Python application to extract structured invoice information using Gemini and Pydantic.
